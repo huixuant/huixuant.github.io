@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hx&#39;s portfolio</title>
+    <link>https://hugo-profile.netlify.app/</link>
+    <description>Recent content on hx&#39;s portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-profile.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>STACK the Flags 2022: Hit You With That Challenge Writeup</title>
+      <link>https://hugo-profile.netlify.app/blog/stf22-writeup/</link>
+      <pubDate>Sat, 24 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugo-profile.netlify.app/blog/stf22-writeup/</guid>
+      <description>A while ago, I participated in GovTech&amp;rsquo;s STACK the Flags competition. One of the challenges I attempted was Hit You With That, but I didn&amp;rsquo;t manage to solve it within the duration of the CTF. I gave it a second try after the competition ended, and managed to find the flag with a bit of help. As part of the learning process, here is my attempt at documenting the steps I took to discover the flag.</description>
+    </item>
+    
+  </channel>
+</rss>
